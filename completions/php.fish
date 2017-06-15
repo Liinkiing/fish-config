@@ -1,0 +1,1 @@
+/home/linking/.config/fisherman/artisan-completion/completions/php.fish
